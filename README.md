@@ -19,7 +19,7 @@ Email Me 👉 ✉️ ** solash5156@gmail.com ** For Collaboration/Project or Any
 Stay updated with the latest tutorials and projects by following on Instagram, Facebook and Twitter.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sol.Ethio.Coder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sol_ethio_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/solomon-ashagre12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solash5156@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sol.Ethio.Coder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sol_ethio_coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sol-ethio-coder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solash5156@gmail.com) 
 
 <!-- Snake Game Repo View -->
 <div align="center">
