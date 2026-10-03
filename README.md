@@ -1,9 +1,6 @@
+![MasterHead](https://github.com/Sol-Ethio-Coder/Sol-Ethio-Coder/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sol Ethio Coder</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sol-ethio-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sol-ethio-coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sol-ethio-coder" alt="sol-ethio-coder" /></a> </p>
 
 - 🔭 I’m currently working on [STCA Platform](https://stca-platform.vercel.app)
 
