@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Sol-Ethio-Coder/Sol-Ethio-Coder/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sol Ethio Coder</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia.</h3>
-<img align="right" width="400" src="https://github.com/Sol-Ethio-Coder/Sol-Ethio-Coder/blob/main/Sol-Ethio-Coder.jpg?raw=true">
+<img align="right" width="400" src="https://github.com/Sol-Ethio-Coder/Sol-Ethio-Coder/blob/main/cute-cat-hacker.avif?raw=true">
 
 - 🔭 I’m currently working on [STCA Platform](https://stca-platform.vercel.app)
 
